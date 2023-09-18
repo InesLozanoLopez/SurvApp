@@ -155,7 +155,7 @@ npm start
 
 Seyma Gulas (**Operations Manager**) - [Github](https://github.com/seymagulas) - [LinkedIn](https://www.linkedin.com/in/seyma-gulas)
 
-Ines Lozano (**UI/UX Supervisor**) - [Github](https://github.com/InesLozanoLopez) - [LinkedIn](https://www.linkedin.com/in/ines-lozano-0aaa2550/)
+Ines Lozano (**UI/UX Supervisor**) - [Github](https://github.com/InesLozanoLopez) - [LinkedIn](https://www.linkedin.com/in/ines-lozano/)
 
 Meera Rai (**Security Auditor**) - [Github](https://github.com/Pastlenomad) - [LinkedIn](http://www.linkedin.com/in/tmeera)
 
