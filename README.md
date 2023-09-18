@@ -39,7 +39,7 @@ SurvApp is a user-friendly and intuitive application that enables users to creat
 1. Clone the repo
 
 ```
-git clone https://github.com/seymagulas/SurvApp.git
+git clone https://github.com/InesLozanoLopez/SurvApp.git
 cd survapp
 ```
 
